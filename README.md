@@ -1,5 +1,5 @@
-# SSnMeta
-This repository has the Screenshotting and Meta Data modules of IntelliSense. 
+# MetaCapture Engine
+This repository contains the MetaCapture Engine of IntelliAssist. 
 
 test5.cpp --> Working Screenshotting file
 
